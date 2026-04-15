@@ -12,7 +12,7 @@ The **Synergetic Operating System (SOS)** is the original intellectual conceptio
 
 # **Solomon Yaw Adeklo**
 
-![Originator](pic-solo.jpg)
+<img src="pic-solo.jpg" alt="Originator" width="200" height="200" />
 
 - GitHub: https://github.com/solomonyaw  
 - Project Repository: https://github.com/solomonyaw/Synergetics-Operating-System  
@@ -30,7 +30,7 @@ The originator has experience in **application-level programming** and developed
 - generative AI-assisted development tools like ChatGPT
 
   ## 🌌 Design Model For The Synergetics Operating System
-  ![Originator](rust design model.png)
+  <img src="rust design model.png" alt="Originator" width="200" height="200" />
 
 ---
 
@@ -62,7 +62,8 @@ Traditional operating systems rely on:
 
 ## 🏗 System Architecture
 
-![Architecture Diagram](system-architecture.png)
+
+<img src="system-architecture.png" alt="System Architecture" width="200" height="200" />
 
 ### Core Components:
 
