@@ -1,4 +1,4 @@
-# 🧠 Synergetic Operating System (SOS)
+# 🧠 Synergetics Operating System (SOS)
 
 <img src="logo (2).png" alt="Originator" width="500" height="500" />
 
