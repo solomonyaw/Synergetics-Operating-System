@@ -1,6 +1,9 @@
-# 🧠 Synergetic Operating System (SOS)
+# 🧠 Synergetics Operating System (SOS)
 
 <img src="logo (2).png" alt="Originator" width="500" height="500" />
+
+# Project Website:
+(https://solomonyaw.github.io/Synergetic-Operating-System/)
 
 ### A Topology-Based, Emergent Operating System Architecture
 
@@ -16,7 +19,10 @@ The **Synergetic Operating System (SOS)** is the original intellectual conceptio
 
 - GitHub: https://github.com/solomonyaw  
 - Project Repository: https://github.com/solomonyaw/Synergetics-Operating-System  
-- Email: sadeklo@st.vvu.edu.gh  
+- Email: sadeklo@st.vvu.edu.gh
+- documentation: https://github.com/solomonyaw/Synergetics-Operating-System/blob/master/A%20comprehensive%20systems%20documentation%20of%20Synergetics%20operating%20system.pdf
+- Whitepaper: https://github.com/solomonyaw/Synergetics-Operating-System/blob/master/SYNERGETIC%20OPERATING%20SYSTEM%20-%20White%20Paper.pdf
+- Simulation: https://github.com/solomonyaw/Synergetics-Operating-System/blob/master/synergetic_scheduler_rust_simulation.rs
 
 This project was conceived as a new computing paradigm inspired by:
 - Synergetics and systems theory  
