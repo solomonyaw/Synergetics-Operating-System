@@ -2,6 +2,9 @@
 
 <img src="logo (2).png" alt="Originator" width="500" height="500" />
 
+# Project Website:
+(https://solomonyaw.github.io/Synergetic-Operating-System/)
+
 ### A Topology-Based, Emergent Operating System Architecture
 
 ---
