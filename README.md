@@ -16,7 +16,9 @@ The **Synergetic Operating System (SOS)** is the original intellectual conceptio
 
 - GitHub: https://github.com/solomonyaw  
 - Project Repository: https://github.com/solomonyaw/Synergetics-Operating-System  
-- Email: sadeklo@st.vvu.edu.gh  
+- Email: sadeklo@st.vvu.edu.gh
+- documentation: https://github.com/solomonyaw/Synergetics-Operating-System/blob/master/A%20comprehensive%20systems%20documentation%20of%20Synergetics%20operating%20system.pdf
+- Whitepaper: https://github.com/solomonyaw/Synergetics-Operating-System/blob/master/SYNERGETIC%20OPERATING%20SYSTEM%20-%20White%20Paper.pdf
 
 This project was conceived as a new computing paradigm inspired by:
 - Synergetics and systems theory  
