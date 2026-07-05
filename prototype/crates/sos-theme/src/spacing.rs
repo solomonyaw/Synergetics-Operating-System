@@ -1,0 +1,13 @@
+/// Standard spacing values used throughout the UI.
+pub struct Spacing;
+
+impl Spacing {
+    pub const XS: f32 = 4.0;
+    pub const SM: f32 = 8.0;
+    pub const MD: f32 = 16.0;
+    pub const LG: f32 = 24.0;
+    pub const XL: f32 = 32.0;
+
+    pub const WINDOW_RADIUS: u8 = 12;
+    pub const BUTTON_RADIUS: u8 = 8;
+}
