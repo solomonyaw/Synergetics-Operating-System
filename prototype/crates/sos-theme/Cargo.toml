@@ -1,0 +1,8 @@
+[package]
+name = "sos-theme"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
+egui.workspace = true

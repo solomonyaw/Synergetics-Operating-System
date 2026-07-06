@@ -1,0 +1,11 @@
+[package]
+name = "sos-shell"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
+egui.workspace = true
+chrono.workspace = true
+
+sos-theme = { path = "../sos-theme" }

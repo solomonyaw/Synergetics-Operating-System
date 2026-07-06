@@ -1,0 +1,17 @@
+[package]
+name = "sos-app"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
+eframe.workspace = true
+egui.workspace = true
+tokio.workspace = true
+chrono.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+
+sos-shell = { path = "../sos-shell" }
+sos-theme = { path = "../sos-theme" }
+sos-core = { path = "../sos-core" }
